@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba4\sp_lab4\sp_lab4\Source.cpp(194,10): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba4\sp_lab4\sp_lab4\Source.cpp(194,10): message : рекомендуется использовать "%hs" в строке форматирования
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba4\sp_lab4\sp_lab4\Source.cpp(194,10): message : рекомендуется использовать "%Ts" в строке форматирования
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba4\sp_lab4\sp_lab4\Source.cpp(194,10): message : это предупреждение основано на нестандартной семантике, используемой Visual C++
+  sp_lab4.vcxproj -> C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba4\sp_lab4\x64\Debug\sp_lab4.1.exe

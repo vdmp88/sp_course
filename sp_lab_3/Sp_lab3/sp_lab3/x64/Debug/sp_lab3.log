@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(97,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(212,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(225,13): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(225,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(225,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(246,14): warning C4477: "wprintf": в строке форматирования "%ws" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "LPBYTE"
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(246,14): message : рекомендуется использовать "%hs" в строке форматирования
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(246,14): message : рекомендуется использовать "%Ts" в строке форматирования
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(193,8): warning C4101: i: неиспользованная локальная переменная
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(280,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(272,8): warning C4101: i: неиспользованная локальная переменная
+C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\sp_lab3\Source.cpp(124): warning C4715: FindInReg: значение возвращается не при всех путях выполнения
+  sp_lab3.vcxproj -> C:\Users\roma6\Desktop\ХАИ\Второй семестр\СП\SP_laba3\sp_lab3\x64\Debug\sp_lab3.exe

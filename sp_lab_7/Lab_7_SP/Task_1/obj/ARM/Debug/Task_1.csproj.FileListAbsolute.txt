@@ -1,0 +1,17 @@
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\App.g.i.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\App.g.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\AboutAuthorPage.g.i.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\AboutAuthorPage.g.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\ConvertorPage.g.i.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\ConvertorPage.g.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\App.xaml
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\AboutAuthorPage.xaml
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\ConvertorPage.xaml
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\MainPage.xaml
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\App.xbf
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\AboutAuthorPage.xbf
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\ConvertorPage.xbf
+C:\Users\Sergey\Desktop\SP\lab7\Lab_7_SP\Task_1\obj\ARM\Debug\MainPage.xbf
